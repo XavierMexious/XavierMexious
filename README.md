@@ -9,7 +9,7 @@ Personal about myself
 
 - 👯 I'm currently in **Bangkit Program**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind, Android Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
