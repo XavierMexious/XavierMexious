@@ -6,7 +6,7 @@ Personal about myself
 - 🔭 I’m currently Studying in **Esa Unggul University**
 
 - 🌱 I’m Finishing my learning on **Mobile Development**
-- 
+  
 - 🌱 I’m currently learning **React Development**
 
 - 👯 I'm Participated in **Bangkit Program**
